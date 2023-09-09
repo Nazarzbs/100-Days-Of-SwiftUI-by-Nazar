@@ -47,3 +47,26 @@ An app that handles unit conversions.
   <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/52f8bf39-9ecc-4943-af13-4c7568aed7ee" alt = "1" width=300>
   <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/4a88eabb-7474-4d29-bc11-782929e5b3f5" alt = "2" width=270, height=580>
 </p>
+
+## Project 2 - Guess The Flag 
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f675e746-8013-4396-a301-ee4b1d4c6d3c" alt="Image description" width="120" height="120">
+
+A guessing game that helps users learn some of the many flags of the world.
+
+[**Check out the We Spit  Repository here🚀!**](https://github.com/Nazarzbs/GuessTheFlag)
+
+ ### Learn
+
+>- [x] Stacks to arrange views
+>- [x] Colors and frames
+>- [x] Gradients in SwiftUI
+>- [x] Buttons and images
+>- [x] Showing alert messages
+>- [x] Stacking up buttons
+>- [x] Showing the player’s score with an alert
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/a0d33e9f-6872-47ee-8743-851dd9ca5e14" alt = "1" width=300>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/8a5bc18b-d9da-46f6-bd9e-5b857863c000" alt = "2" width=270, height=580>
+</p>
+

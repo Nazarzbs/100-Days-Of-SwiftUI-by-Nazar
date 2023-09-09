@@ -53,7 +53,7 @@ An app that handles unit conversions.
 
 A guessing game that helps users learn some of the many flags of the world.
 
-[**Check out the We Spit  Repository here🚀!**](https://github.com/Nazarzbs/GuessTheFlag)
+[**Check out the Guess The Flag Repository here🚀!**](https://github.com/Nazarzbs/GuessTheFlag)
 
  ### Learn
 
@@ -65,8 +65,15 @@ A guessing game that helps users learn some of the many flags of the world.
 >- [x] Stacking up buttons
 >- [x] Showing the player’s score with an alert
 
+ ### Challenge
+>- [x] Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
+>- [x] When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
+>- [x]  Make the game show only 8 questions, at which point they see a final alert judging their score and can restart the game.
+
+
+
 <p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/a0d33e9f-6872-47ee-8743-851dd9ca5e14" alt = "1" width=300>
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/8a5bc18b-d9da-46f6-bd9e-5b857863c000" alt = "2" width=270, height=580>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f40d6e38-fcf0-4fdf-b788-7f6fcd252069" alt = "1" width=300>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=270, height=580>
 </p>
 

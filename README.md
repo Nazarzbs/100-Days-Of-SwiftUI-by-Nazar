@@ -77,3 +77,15 @@ A guessing game that helps users learn some of the many flags of the world.
   <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=270, height=580>
 </p>
 
+## Challenge Project Rock, Paper, Scissors
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/9a7541b0-4559-4409-8e3d-c735d31d1f3d" alt="Image description" width="120" height="120">
+
+A brain training game that challenges players to win or lose at rock, paper, scissors.
+
+[**Check out Rock, Paper, Scissors Game Repository here🚀!**](https://github.com/Nazarzbs/RockPaperScissor)
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b704221e-e492-4f07-a7f0-a5d78b6d9012" alt = "1" >
+</p>
+

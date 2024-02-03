@@ -89,3 +89,23 @@ A brain training game that challenges players to win or lose at rock, paper, sci
   <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b704221e-e492-4f07-a7f0-a5d78b6d9012" alt = "1" >
 </p>
 
+
+## Project 4 - BetterRest
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/5fb7b36f-b100-48e3-956f-d83c29e6b361" alt="Image description" width="120" height="120">
+
+BetterRest is an app that uses machine learning to help you optimize your sleep quality based on your wake-up time, desired sleep duration, and coffee consumption. By using regression analysis, it can predict the best time for you to go to bed and adjust to your personal preferences. BetterRest is a smart and simple way to improve your health and well-being. 😴
+
+[**Check out the We Spit  Repository here🚀!**](https://github.com/Nazarzbs/BetterRest)
+
+ ### Learn
+>- [x] How to create and use forms and bindings in SwiftUI to collect user input and update the UI accordingly.
+>- [x] How to use various components such as DatePicker, Stepper, and Text to display and manipulate data in different formats.
+>- [x] How to add buttons to the navigation bar and use navigation links to navigate between views.
+>- [x] How to use Create ML and Core ML to train and use a machine learning model that can perform regression analysis on your data and make predictions.
+>- [x] How to use machine learning for various purposes and scenarios, while respecting the user’s privacy and security.
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/37a92aea-9b6b-42c3-8b6d-495fb8ad6107" alt = "1" >
+</p>
+

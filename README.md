@@ -1,5 +1,4 @@
-# 100 Days Of SwiftUI by Nazar
- 100 Days of SwiftUI Couse by Paul Hudson Including All Challenges
+# Solutions to Paul Hudson's "100 days of SwiftUI" projects and challenges by Nazar
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 

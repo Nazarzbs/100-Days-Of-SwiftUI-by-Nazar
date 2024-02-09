@@ -21,8 +21,8 @@ This project is a check-sharing app that calculates how to split a check based o
 >- [x] Change the tip percentage picker to show a new screen rather than using a segmented control, and give it a wider range of options – everything from 0% to 100%. Tip: use the range 0..<101 for your range rather than a fixed array.
 
 <p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/298a854f-8a30-46f5-882f-72eef5bc80c1" alt = "1" width=300>
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/cc78564a-5098-4771-8912-e8fa5f10c1c6" alt = "2" width=290, height=580>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/298a854f-8a30-46f5-882f-72eef5bc80c1" alt = "1" width=200>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/cc78564a-5098-4771-8912-e8fa5f10c1c6" alt = "2" width=200>
 </p>
 
 ## Challenge 1 - SwiftScale
@@ -43,8 +43,8 @@ An app that handles unit conversions.
 
 
 <p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/52f8bf39-9ecc-4943-af13-4c7568aed7ee" alt = "1" width=300>
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/4a88eabb-7474-4d29-bc11-782929e5b3f5" alt = "2" width=270, height=580>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/52f8bf39-9ecc-4943-af13-4c7568aed7ee" alt = "1" width=200>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/4a88eabb-7474-4d29-bc11-782929e5b3f5" alt = "2" width=200>
 </p>
 
 ## Project 2 - Guess The Flag 
@@ -72,8 +72,8 @@ A guessing game that helps users learn some of the many flags of the world.
 
 
 <p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f40d6e38-fcf0-4fdf-b788-7f6fcd252069" alt = "1" width=300>
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=270, height=580>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f40d6e38-fcf0-4fdf-b788-7f6fcd252069" alt = "1" width=200>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=200>
 </p>
 
 ## Challenge Project Rock, Paper, Scissors
@@ -85,7 +85,7 @@ A brain training game that challenges players to win or lose at rock, paper, sci
 [**Check out Rock, Paper, Scissors Game Repository here🚀!**](https://github.com/Nazarzbs/RockPaperScissor)
 
 <p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b704221e-e492-4f07-a7f0-a5d78b6d9012" alt = "1" >
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b704221e-e492-4f07-a7f0-a5d78b6d9012" alt = "1" width=800>
 </p>
 
 
@@ -95,7 +95,7 @@ A brain training game that challenges players to win or lose at rock, paper, sci
 
 BetterRest is an app that uses machine learning to help you optimize your sleep quality based on your wake-up time, desired sleep duration, and coffee consumption. By using regression analysis, it can predict the best time for you to go to bed and adjust to your personal preferences. BetterRest is a smart and simple way to improve your health and well-being. 😴
 
-[**Check out the We Spit  Repository here🚀!**](https://github.com/Nazarzbs/BetterRest)
+[**Check out the Better Rest Repository here🚀!**](https://github.com/Nazarzbs/BetterRest)
 
  ### Learn
 >- [x] How to create and use forms and bindings in SwiftUI to collect user input and update the UI accordingly.
@@ -105,6 +105,27 @@ BetterRest is an app that uses machine learning to help you optimize your sleep 
 >- [x] How to use machine learning for various purposes and scenarios, while respecting the user’s privacy and security.
 
 <p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/37a92aea-9b6b-42c3-8b6d-495fb8ad6107" alt = "1" >
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/3dc1b54f-feba-45f8-91ea-f9cd2adf056f" alt = "1" width=800>
 </p>
+
+## Project 4 - Word Scramble
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/7e92ee01-1ea4-4584-bbd3-c48fde6e510c" alt="Image description" width="120" height="120">
+
+The game show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
+
+[**Check out the Word Scramble Repository here🚀!**](https://github.com/Nazarzbs/WordScramble)
+
+ ### Learn
+
+>- [x] How to use List to display rows of data in a scrollable view.
+>- [x] How to use onAppear modifier to perform actions when a view appears on screen.
+>- [x] How to use Bundle to access the app’s resources such as images, sounds, or data files.
+>- [x] How to use fatalError() to terminate the app when an impossible condition occurs, and how to identify such conditions with experience.
+>- [x] How to use UITextChecker to check the spelling and grammar of a string, and how to suggest corrections.
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/524c3a4e-5740-4fe0-abf3-b4a4d7810c69" alt = "1" width=470, >
+</p>
+
 

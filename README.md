@@ -2,6 +2,135 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+ 
+## Challenge 4 - Project Multiply Mastery
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/ef79c445-81b8-4253-bcb5-a2021430a760" alt="Image description" width="120" height="120">
+
+Welcome to Multiply Mastery, the ultimate edutainment app designed to make learning multiplication tables fun and engaging for kids! With vibrant graphics and playful animations, children can practice their multiplication skills while having a blast.
+
+ ### Learn
+>- [x] How to pass data between views in SwiftUI to maintain state and share information across different parts of the app.
+>-	[x] How to use Emitter Cells to create dynamic confetti animations, enhancing the app’s visual appeal and making learning celebrations more exciting.
+>- [x] How to utilize SwiftUI’s declarative syntax to build user interfaces that are both interactive and easy to understand.
+>- [x] How to implement customizable quizzes, allowing users to select ranges and question quantities for tailored practice sessions.
+>-	[x] How to incorporate third-party assets, such as Kenney’s Animal Pack, to add fun themes and characters, making the app more attractive to children.
+>- [x] How to use SwiftUI modifiers, such as onAppear and onDisappear, to trigger actions when views enter or leave the screen.
+
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/d0659440-80ac-4831-bb10-d9725b24b28b" width=770, >
+</p>
+
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/4c722123-7a6c-4d2d-bb6c-f27d36f59383" width=100, >
+
+
+
+## Project 4 - Word Scramble
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/7e92ee01-1ea4-4584-bbd3-c48fde6e510c" alt="Image description" width="120" height="120">
+
+The game show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
+
+[**Check out the Word Scramble Repository here🚀!**](https://github.com/Nazarzbs/WordScramble)
+
+ ### Learn
+
+>- [x] How to use List to display rows of data in a scrollable view.
+>- [x] How to use onAppear modifier to perform actions when a view appears on screen.
+>- [x] How to use Bundle to access the app’s resources such as images, sounds, or data files.
+>- [x] How to use fatalError() to terminate the app when an impossible condition occurs, and how to identify such conditions with experience.
+>- [x] How to use UITextChecker to check the spelling and grammar of a string, and how to suggest corrections.
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/524c3a4e-5740-4fe0-abf3-b4a4d7810c69" alt = "1" width=470, >
+</p>
+
+## Project 3 - BetterRest
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/5fb7b36f-b100-48e3-956f-d83c29e6b361" alt="Image description" width="120" height="120">
+
+BetterRest is an app that uses machine learning to help you optimize your sleep quality based on your wake-up time, desired sleep duration, and coffee consumption. By using regression analysis, it can predict the best time for you to go to bed and adjust to your personal preferences. BetterRest is a smart and simple way to improve your health and well-being. 😴
+
+[**Check out the Better Rest Repository here🚀!**](https://github.com/Nazarzbs/BetterRest)
+
+ ### Learn
+>- [x] How to create and use forms and bindings in SwiftUI to collect user input and update the UI accordingly.
+>- [x] How to use various components such as DatePicker, Stepper, and Text to display and manipulate data in different formats.
+>- [x] How to add buttons to the navigation bar and use navigation links to navigate between views.
+>- [x] How to use Create ML and Core ML to train and use a machine learning model that can perform regression analysis on your data and make predictions.
+>- [x] How to use machine learning for various purposes and scenarios, while respecting the user’s privacy and security.
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/3dc1b54f-feba-45f8-91ea-f9cd2adf056f" alt = "1" width=800>
+</p>
+
+
+ ### Challenge 3 - GuessTheFlag
+>- [x] Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
+>- [x] When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
+>- [x]  Make the game show only 8 questions, at which point they see a final alert judging their score and can restart the game.
+
+
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f40d6e38-fcf0-4fdf-b788-7f6fcd252069" alt = "1" width=200>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=200>
+</p>
+
+## Challenge 2 - Project Rock, Paper, Scissors
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/9a7541b0-4559-4409-8e3d-c735d31d1f3d" alt="Image description" width="120" height="120">
+
+A brain training game that challenges players to win or lose at rock, paper, scissors.
+
+[**Check out Rock, Paper, Scissors Game Repository here🚀!**](https://github.com/Nazarzbs/RockPaperScissor)
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b704221e-e492-4f07-a7f0-a5d78b6d9012" alt = "1" width=800>
+</p>
+
+
+## Project 2 - Guess The Flag 
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f675e746-8013-4396-a301-ee4b1d4c6d3c" alt="Image description" width="120" height="120">
+
+A guessing game that helps users learn some of the many flags of the world.
+
+[**Check out the Guess The Flag Repository here🚀!**](https://github.com/Nazarzbs/GuessTheFlag)
+
+ ### Learn
+
+>- [x] Stacks to arrange views
+>- [x] Colors and frames
+>- [x] Gradients in SwiftUI
+>- [x] Buttons and images
+>- [x] Showing alert messages
+>- [x] Stacking up buttons
+>- [x] Showing the player’s score with an alert
+
+ ## Challenge 1 - SwiftScale
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/c09430c5-82ad-4c19-8520-8f57f44a56b1" alt="Image description" width="120" height="120">
+
+An app that handles unit conversions.
+
+[**Check out the SwiftScale Repository here🚀!**](https://github.com/Nazarzbs/SwiftScale)
+
+ ### Learn
+>- [x] Build forms and sections
+>- [x] Create navigation views and navigation bar titles
+>- [x] Create tabbar views with icons.
+>- [x] Store program state with the @State and @FocusState property wrappers 
+>- [x] Sreate user interface controls like TextField and Picker
+>- [x] Create views in a loop using ForEach.
+>- [x] Hiding the keyboard
+
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/52f8bf39-9ecc-4943-af13-4c7568aed7ee" alt = "1" width=200>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/4a88eabb-7474-4d29-bc11-782929e5b3f5" alt = "2" width=200>
+</p>
+
+
 ## Project 1 - We Spit 
 <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f20f8cea-b483-42ba-ae9b-e6c515771cdc" alt="Image description" width="120" height="120">
 
@@ -25,107 +154,7 @@ This project is a check-sharing app that calculates how to split a check based o
   <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/cc78564a-5098-4771-8912-e8fa5f10c1c6" alt = "2" width=200>
 </p>
 
-## Challenge 1 - SwiftScale
-<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/c09430c5-82ad-4c19-8520-8f57f44a56b1" alt="Image description" width="120" height="120">
-
-An app that handles unit conversions.
-
-[**Check out the SwiftScale Repository here🚀!**](https://github.com/Nazarzbs/SwiftScale)
-
- ### Learn
->- [x] Build forms and sections
->- [x] Create navigation views and navigation bar titles
->- [x] Create tabbar views with icons.
->- [x] Store program state with the @State and @FocusState property wrappers 
->- [x] Sreate user interface controls like TextField and Picker
->- [x] Create views in a loop using ForEach.
->- [x] Hiding the keyboard
 
 
-<p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/52f8bf39-9ecc-4943-af13-4c7568aed7ee" alt = "1" width=200>
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/4a88eabb-7474-4d29-bc11-782929e5b3f5" alt = "2" width=200>
-</p>
-
-## Project 2 - Guess The Flag 
-<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f675e746-8013-4396-a301-ee4b1d4c6d3c" alt="Image description" width="120" height="120">
-
-A guessing game that helps users learn some of the many flags of the world.
-
-[**Check out the Guess The Flag Repository here🚀!**](https://github.com/Nazarzbs/GuessTheFlag)
-
- ### Learn
-
->- [x] Stacks to arrange views
->- [x] Colors and frames
->- [x] Gradients in SwiftUI
->- [x] Buttons and images
->- [x] Showing alert messages
->- [x] Stacking up buttons
->- [x] Showing the player’s score with an alert
-
- ### Challenge
->- [x] Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
->- [x] When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
->- [x]  Make the game show only 8 questions, at which point they see a final alert judging their score and can restart the game.
-
-
-
-<p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f40d6e38-fcf0-4fdf-b788-7f6fcd252069" alt = "1" width=200>
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=200>
-</p>
-
-## Challenge Project Rock, Paper, Scissors
-
-<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/9a7541b0-4559-4409-8e3d-c735d31d1f3d" alt="Image description" width="120" height="120">
-
-A brain training game that challenges players to win or lose at rock, paper, scissors.
-
-[**Check out Rock, Paper, Scissors Game Repository here🚀!**](https://github.com/Nazarzbs/RockPaperScissor)
-
-<p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b704221e-e492-4f07-a7f0-a5d78b6d9012" alt = "1" width=800>
-</p>
-
-
-## Project 4 - BetterRest
-
-<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/5fb7b36f-b100-48e3-956f-d83c29e6b361" alt="Image description" width="120" height="120">
-
-BetterRest is an app that uses machine learning to help you optimize your sleep quality based on your wake-up time, desired sleep duration, and coffee consumption. By using regression analysis, it can predict the best time for you to go to bed and adjust to your personal preferences. BetterRest is a smart and simple way to improve your health and well-being. 😴
-
-[**Check out the Better Rest Repository here🚀!**](https://github.com/Nazarzbs/BetterRest)
-
- ### Learn
->- [x] How to create and use forms and bindings in SwiftUI to collect user input and update the UI accordingly.
->- [x] How to use various components such as DatePicker, Stepper, and Text to display and manipulate data in different formats.
->- [x] How to add buttons to the navigation bar and use navigation links to navigate between views.
->- [x] How to use Create ML and Core ML to train and use a machine learning model that can perform regression analysis on your data and make predictions.
->- [x] How to use machine learning for various purposes and scenarios, while respecting the user’s privacy and security.
-
-<p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/3dc1b54f-feba-45f8-91ea-f9cd2adf056f" alt = "1" width=800>
-</p>
-
-## Project 4 - Word Scramble
-
-<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/7e92ee01-1ea4-4584-bbd3-c48fde6e510c" alt="Image description" width="120" height="120">
-
-The game show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
-
-[**Check out the Word Scramble Repository here🚀!**](https://github.com/Nazarzbs/WordScramble)
-
- ### Learn
-
->- [x] How to use List to display rows of data in a scrollable view.
->- [x] How to use onAppear modifier to perform actions when a view appears on screen.
->- [x] How to use Bundle to access the app’s resources such as images, sounds, or data files.
->- [x] How to use fatalError() to terminate the app when an impossible condition occurs, and how to identify such conditions with experience.
->- [x] How to use UITextChecker to check the spelling and grammar of a string, and how to suggest corrections.
-
-<p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/524c3a4e-5740-4fe0-abf3-b4a4d7810c69" alt = "1" width=470, >
-</p>
 
 

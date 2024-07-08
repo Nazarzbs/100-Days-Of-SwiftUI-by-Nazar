@@ -2,6 +2,53 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+## Project 6 - Moonshot
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/efe16c23-2be0-45f2-88cb-4b54af93bece" alt="Image description" width="120" height="120">
+
+An app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program. 
+
+>- [x] How to use ScrollView to work with scrolling data, enabling the display of content larger than the available screen space.
+>- [x] How to push new views onto the stack using NavigationLink, allowing for navigation between different parts of the app.
+>- [x] How to work with hierarchical Codable data, making it easier to manage complex data structures.
+>- [x] How to lay out views in a scrolling grid, providing a flexible way to present items in a grid format.
+>- [x] How to load a specific kind of Codable data, ensuring precise data handling.
+>- [x] How to use generics to load any kind of Codable data, increasing the versatility of data loading functions.
+>- [x] How to format our mission view, creating a polished and user-friendly interface.
+>- [x] How to show mission details with ScrollView and containerRelativeFrame(), enhancing the presentation of detailed information.
+>- [x] How to merge Codable structs, simplifying data management and integration.
+
+[**Check out the Moonshot Repository here🚀!**](https://github.com/Nazarzbs/Moonshot)
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/7000c2fa-3287-488d-8e80-3442be8230b2" width=770, >
+</p>
+
+ <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/6555db33-c6df-4192-92fb-3d44ce77948a" width=70, >
+
+## Project 5 - iExpense
+
+<img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/cabb5fc2-90e6-48bd-af72-9445cd140aec" alt="Image description" width="120" height="120">
+
+iExpense is an expense tracker that separates personal costs from business costs. 
+
+###Learn
+
+>- [x] How to use UserDefaults to store and retrieve user preferences and app settings.
+>- [x] How to conform to the Codable protocol for encoding and decoding data, making it easier to save complex objects.
+>- [x] How to present modals and sheets using sheet(), providing a way to display temporary content over the current view.
+>- [x] How to delete items from a list using the onDelete() modifier, enhancing the app’s interactivity.
+>- [x] How to use the @Observable attribute to create observable objects that SwiftUI views can subscribe to, enabling reactive programming.
+>- [x] How to create forms with text fields and pickers in SwiftUI, streamlining the process of user input.
+
+[**Check out the iExpense Repository here🚀!**](https://github.com/Nazarzbs/iExpense)
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/e36d3f57-718a-4db6-8af4-abbb293214c7" width=770, >
+</p>
+
+ <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/c4fe2737-0a27-4b1a-9912-000c6a316f87" width=70, >
+
  
 ## Challenge 4 - Project Multiply Mastery
 
@@ -17,13 +64,13 @@ Welcome to Multiply Mastery, the ultimate edutainment app designed to make learn
 >-	[x] How to incorporate third-party assets, such as Kenney’s Animal Pack, to add fun themes and characters, making the app more attractive to children.
 >- [x] How to use SwiftUI modifiers, such as onAppear and onDisappear, to trigger actions when views enter or leave the screen.
 
+[**Check out the Multiply Mastery Repository here🚀!**](https://github.com/Nazarzbs/Multiply-Mastery)
 
 <p float="middle">
   <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/d0659440-80ac-4831-bb10-d9725b24b28b" width=770, >
 </p>
 
   <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/4c722123-7a6c-4d2d-bb6c-f27d36f59383" width=100, >
-
 
 
 ## Project 4 - Word Scramble
@@ -66,18 +113,6 @@ BetterRest is an app that uses machine learning to help you optimize your sleep 
 </p>
 
 
- ### Challenge 3 - GuessTheFlag
->- [x] Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
->- [x] When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
->- [x]  Make the game show only 8 questions, at which point they see a final alert judging their score and can restart the game.
-
-
-
-<p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f40d6e38-fcf0-4fdf-b788-7f6fcd252069" alt = "1" width=200>
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=200>
-</p>
-
 ## Challenge 2 - Project Rock, Paper, Scissors
 
 <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/9a7541b0-4559-4409-8e3d-c735d31d1f3d" alt="Image description" width="120" height="120">
@@ -107,6 +142,16 @@ A guessing game that helps users learn some of the many flags of the world.
 >- [x] Showing alert messages
 >- [x] Stacking up buttons
 >- [x] Showing the player’s score with an alert
+
+ ### Challenge 3 - GuessTheFlag
+>- [x] Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
+>- [x] When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
+>- [x]  Make the game show only 8 questions, at which point they see a final alert judging their score and can restart the game.
+
+<p float="middle">
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/f40d6e38-fcf0-4fdf-b788-7f6fcd252069" alt = "1" width=200>
+  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=200>
+</p>
 
  ## Challenge 1 - SwiftScale
 <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/c09430c5-82ad-4c19-8520-8f57f44a56b1" alt="Image description" width="120" height="120">

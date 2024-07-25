@@ -2,11 +2,39 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+## Challenge Project 5 HabitHub
+
+<img src="https://github.com/user-attachments/assets/e71ec675-37bd-4bdb-bb6d-b1bb177cde13" alt="Image description" width="120" height="120">
+
+Habit-tracking app, for folks who want to keep track of how much they do certain things. That might be learning a language, practicing an instrument, exercising, etc.
+
+###Learn
+
+>- [x] How to use a class with the @Observable macro to manage and track changes in a list of activities, enabling real-time updates in the UI.
+>- [x] How to use sheet() to present modal views, such as a form for adding new activities, and NavigationLink for navigating to detail screens.
+>-	[x] How to conform data structures to the Identifiable and Equatable protocols, simplifying list management and enabling comparison of activities.
+>- [x] How to work with UserDefaults to persist data locally, ensuring that user activities and completion counts are saved and reloaded across app launches.
+>- [x] How to implement a simple form using SwiftUI’s Form, TextField, and Button components to add new activities with a title and description.
+>- [x] How to build a detail screen that displays an activity’s information and allows users to increment its completion count, updating the data model.
+>- [x] How to use Codable to serialize and deserialize activity data, making it easy to save to and load from UserDefaults.
+>- [x] How to use firstIndex(of:) to locate and update specific items within an array, facilitating the modification of activity data when the user interacts with the app.
+
+[**Check out the HabitHub Repository here🚀!**](https://github.com/Nazarzbs/HabitHub)
+
+
+<p float="middle">
+  <img src="https://github.com/user-attachments/assets/c1432f05-66b7-4fcd-9529-5fc925aa7115" width=770, >
+</p>
+
+<img src="https://github.com/user-attachments/assets/4aae2d6d-e1df-408c-b7cd-b5f55bb4fe4c" width="260" height="500">
+
 ## Project 6 - Moonshot
 
 <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/efe16c23-2be0-45f2-88cb-4b54af93bece" alt="Image description" width="120" height="120">
 
 An app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program. 
+
+###Learn
 
 >- [x] How to use ScrollView to work with scrolling data, enabling the display of content larger than the available screen space.
 >- [x] How to push new views onto the stack using NavigationLink, allowing for navigation between different parts of the app.
@@ -50,7 +78,7 @@ iExpense is an expense tracker that separates personal costs from business costs
  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/c4fe2737-0a27-4b1a-9912-000c6a316f87" width=70, >
 
  
-## Challenge 4 - Project Multiply Mastery
+## Challenge Project 4 - Project Multiply Mastery
 
 <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/ef79c445-81b8-4253-bcb5-a2021430a760" alt="Image description" width="120" height="120">
 
@@ -113,7 +141,7 @@ BetterRest is an app that uses machine learning to help you optimize your sleep 
 </p>
 
 
-## Challenge 2 - Project Rock, Paper, Scissors
+## Challenge Project 2 - Project Rock, Paper, Scissors
 
 <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/9a7541b0-4559-4409-8e3d-c735d31d1f3d" alt="Image description" width="120" height="120">
 
@@ -143,7 +171,7 @@ A guessing game that helps users learn some of the many flags of the world.
 >- [x] Stacking up buttons
 >- [x] Showing the player’s score with an alert
 
- ### Challenge 3 - GuessTheFlag
+ ### Challenge Project 3 - GuessTheFlag
 >- [x] Add an @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
 >- [x] When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
 >- [x]  Make the game show only 8 questions, at which point they see a final alert judging their score and can restart the game.
@@ -153,7 +181,7 @@ A guessing game that helps users learn some of the many flags of the world.
   <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/b11c86fe-2890-42cd-92be-f1267060e758" alt = "2" width=200>
 </p>
 
- ## Challenge 1 - SwiftScale
+ ## Challenge Project 1 - SwiftScale
 <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/c09430c5-82ad-4c19-8520-8f57f44a56b1" alt="Image description" width="120" height="120">
 
 An app that handles unit conversions.

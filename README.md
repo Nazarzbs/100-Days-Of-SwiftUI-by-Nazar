@@ -21,12 +21,11 @@ Habit-tracking app, for folks who want to keep track of how much they do certain
 
 [**Check out the HabitHub Repository here🚀!**](https://github.com/Nazarzbs/HabitHub)
 
-
 <p float="middle">
-  <img src="https://github.com/user-attachments/assets/c1432f05-66b7-4fcd-9529-5fc925aa7115" width=770, >
+  <img src="https://github.com/user-attachments/assets/e19d9fdd-5d56-46c5-aaff-6977d13448b7" width=770, >
 </p>
 
-<img src="https://github.com/user-attachments/assets/4aae2d6d-e1df-408c-b7cd-b5f55bb4fe4c" width="260" height="500">
+<img src="https://github.com/user-attachments/assets/b4ae2d8d-9c44-46d9-af5a-97e961c013a6" width="260" height="500">
 
 ## Project 6 - Moonshot
 

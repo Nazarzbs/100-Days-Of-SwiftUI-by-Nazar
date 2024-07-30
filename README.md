@@ -2,6 +2,31 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+## Project 7 Cupcake Corner
+<img src="https://github.com/user-attachments/assets/b351db2f-d94f-4e5e-ab3e-1647b66973c2" alt="Image description" width="120" height="120">
+
+App for ordering cupcakes.
+
+###Learn
+
+>- [x]	How to use SwiftUI’s List to dynamically display a collection of data items, enhancing the user interface with interactive elements.
+>- [x] How to leverage @State and @Binding properties in SwiftUI to manage and share state between views, allowing for responsive UI updates.
+>- [x] How to implement data fetching using URLSession to perform network requests and handle asynchronous data loading within the app.
+>- [x] 	How to parse JSON data into Swift structs using Codable, enabling easy data manipulation and display.
+>- [x] How to utilize SwiftUI’s NavigationStack to allow users to navigate between views with a back button, improving app usability.
+>- [x] How to use Alert to display error messages or confirmations to the user, enhancing the app’s user interaction flow.
+>- [x] How to apply custom styles and modifiers to SwiftUI views for a consistent and visually appealing design across the app.
+>- [x] How to implement error handling mechanisms to gracefully manage and present network or data errors to the user.
+
+[**Check out the HabitHub Repository here🚀!**](https://github.com/Nazarzbs/CupCakeCorner)
+
+<p float="middle">
+  <img src="https://github.com/user-attachments/assets/d6d77b26-a81e-47cd-a6f2-a39773c06564" width=770, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/f976feb5-3e7b-495a-bf02-30088477d00c" width="260" height="500">
+
 ## Challenge Project 5 HabitHub
 
 <img src="https://github.com/user-attachments/assets/e71ec675-37bd-4bdb-bb6d-b1bb177cde13" alt="Image description" width="120" height="120">

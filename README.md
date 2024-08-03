@@ -2,6 +2,33 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+## Project 8 Bookworm
+<img src="https://github.com/user-attachments/assets/594eeb84-42f1-4530-98ff-998f82ba077e" alt="Image description" width="120" height="120">
+
+An app to track which books you’ve read and what you thought of them.
+
+###Learn
+
+>- [x]	How to create a custom component with @Binding to allow for dynamic and interactive UI elements that can react to changes in the data model.
+>- [x]	How to accept multi-line text input using TextEditor for capturing and managing detailed user input, such as book reviews or notes.
+>- [x]	An introduction to SwiftData and SwiftUI for building robust data-driven applications that leverage Swift’s modern data handling capabilities.
+>- [x]	How to create and manage books using SwiftData to effectively store, retrieve, and manipulate book information in the app’s data model.
+>- [x]	How to add a custom star rating component to visually represent user ratings, enhancing the user experience with intuitive feedback mechanisms.
+>- [x]	How to build a list using @Query to dynamically display a collection of book entries, leveraging SwiftUI’s powerful data-binding capabilities.
+>- [x]	How to show detailed book information by navigating to individual book detail views, providing users with a comprehensive understanding of their tracked books.
+>- [x]	How to sort SwiftData queries using SortDescriptor to organize book data in a meaningful order, improving data presentation and user navigation.
+>- [x]	How to delete entries from a SwiftData query to manage and maintain the integrity of the app’s data store effectively.
+>- [x]	How to use an alert to pop a NavigationLink programmatically to control navigation flow and enhance user interaction within the app’s UI.
+
+[**Check out the Bookworm Repository here🚀!**](https://github.com/Nazarzbs/Bookworm)
+
+<p float="middle">
+  <img src="https://github.com/user-attachments/assets/79734b8d-ce0f-4f30-8a85-26bf36114fb4" width=770, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/c839808c-b84f-49ba-9593-a1a446f1b55c" width="260" height="500">
+
 ## Project 7 Cupcake Corner
 <img src="https://github.com/user-attachments/assets/b351db2f-d94f-4e5e-ab3e-1647b66973c2" alt="Image description" width="120" height="120">
 
@@ -18,7 +45,7 @@ App for ordering cupcakes.
 >- [x] How to apply custom styles and modifiers to SwiftUI views for a consistent and visually appealing design across the app.
 >- [x] How to implement error handling mechanisms to gracefully manage and present network or data errors to the user.
 
-[**Check out the HabitHub Repository here🚀!**](https://github.com/Nazarzbs/CupCakeCorner)
+[**Check out the Cupcake Corner Repository here🚀!**](https://github.com/Nazarzbs/CupCakeCorner)
 
 <p float="middle">
   <img src="https://github.com/user-attachments/assets/d6d77b26-a81e-47cd-a6f2-a39773c06564" width=770, >

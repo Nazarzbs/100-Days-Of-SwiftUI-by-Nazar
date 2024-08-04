@@ -119,11 +119,12 @@ iExpense is an expense tracker that separates personal costs from business costs
 >- [x] How to delete items from a list using the onDelete() modifier, enhancing the app’s interactivity.
 >- [x] How to use the @Observable attribute to create observable objects that SwiftUI views can subscribe to, enabling reactive programming.
 >- [x] How to create forms with text fields and pickers in SwiftUI, streamlining the process of user input.
+>- [x] How to use Swift Data, sorting and filtering 
 
 [**Check out the iExpense Repository here🚀!**](https://github.com/Nazarzbs/iExpense)
 
 <p float="middle">
-  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/e36d3f57-718a-4db6-8af4-abbb293214c7" width=770, >
+  <img src="https://github.com/user-attachments/assets/3830c414-27bb-49e8-986f-1f3fb4ca5ba7" width=770, >
 </p>
 
  <img src="https://github.com/Nazarzbs/100-Days-Of-SwiftUI-by-Nazar/assets/68568073/c4fe2737-0a27-4b1a-9912-000c6a316f87" width=70, >

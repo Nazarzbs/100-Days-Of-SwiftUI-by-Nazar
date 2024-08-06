@@ -1,6 +1,35 @@
 # Solutions to Paul Hudson's "100 days of SwiftUI" projects and challenges by Nazar
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
+ 
+## Project 9 MyFriends
+
+<img src="https://github.com/user-attachments/assets/4c7e7385-3716-4f6f-aa78-e32640a07f6b" alt="Image description" width="120" height="120">
+
+Stay Connected is your all-in-one social networking app designed to keep you in touch with the people who matter most. Whether you’re sharing moments, chatting with friends, or discovering new connections, Stay Connected offers a seamless and engaging experience.
+
+###Learn
+
+>- [x]	How to use the Codable protocol to easily encode and decode JSON data into Swift types, reducing boilerplate code and improving code clarity.
+>- [x] How to utilize keyDecodingStrategy in JSONDecoder to automatically convert JSON property names from snake_case to camelCase, allowing for seamless integration between JSON data and Swift code conventions.
+>- [x] How to implement custom CodingKeys enums for mapping JSON property names to Swift property names, providing flexibility when JSON structure differs from your Swift model.
+>- [x] How to write custom encoding and decoding methods to handle complex scenarios like type conversion and provide default values, allowing for precise control over the serialization process.
+>- [x] How to use URLSession to fetch JSON data from the internet, making network requests to retrieve and utilize external data sources in your app.
+>- [x] How to parse JSON data into Swift models using Codable, enabling structured and type-safe handling of data within your application.
+>- [x]	How to build a dynamic UI using NavigationStack and List in SwiftUI to present data fetched from the internet, facilitating an interactive and user-friendly experience.
+>- [x]	How to create a detail view for displaying more information about a selected user, utilizing SwiftUI’s navigation capabilities to drill down into specific data.
+>- [x]	How to manage data downloads efficiently by checking and ensuring that the data is only fetched once, optimizing performance and resource usage.
+>- [x]	How to use dateDecodingStrategy.iso8601 to automatically decode ISO-8601 formatted date strings into Date objects, simplifying date handling in JSON data.
+>- [x] The importance of simplifying code and focusing on essential features, enhancing maintainability and ensuring your app is robust and functional for core use cases.
+
+[**Check out the MyFriends Repository here🚀!**](https://github.com/Nazarzbs/MyFriends)
+
+<p float="middle">
+  <img src="https://github.com/user-attachments/assets/8f0152c2-1894-4aff-ba7f-b6949b08b571" width=770, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/62cf1095-afe3-412e-965b-c9e33aef0a10" width="260" height="500">
 
 ## Project 8 Bookworm
 <img src="https://github.com/user-attachments/assets/594eeb84-42f1-4530-98ff-998f82ba077e" alt="Image description" width="120" height="120">

@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/4c7e7385-3716-4f6f-aa78-e32640a07f6b" alt="Image description" width="120" height="120">
 
-Stay Connected is your all-in-one social networking app designed to keep you in touch with the people who matter most. Whether you’re sharing moments, chatting with friends, or discovering new connections, Stay Connected offers a seamless and engaging experience.
+MyFriends is your all-in-one social networking app designed to keep you in touch with the people who matter most. Whether you’re sharing moments, chatting with friends, or discovering new connections, MyFriends offers a seamless and engaging experience.
 
 ###Learn
 

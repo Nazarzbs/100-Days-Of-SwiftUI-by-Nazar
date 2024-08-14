@@ -2,6 +2,36 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
  
+## Project 10 Instafilter
+
+<img src="https://github.com/user-attachments/assets/7d100e91-8697-4ff7-9190-297291b62519" width="120" height="120">
+
+An app that lets the user import photos from their library, then modify them using various image effects.
+
+###Learn
+
+>- [x] How to respond to state changes using the onChange() modifier in SwiftUI, enabling dynamic updates and reactions to specific changes within your views.
+>- [x] How to present multiple options to users using confirmationDialog(), offering a user-friendly way to handle complex interactions and decision-making in SwiftUI.
+>- [x] How to integrate Core Image with SwiftUI to apply filters and manipulate images, combining the power of image processing with SwiftUI’s declarative syntax.
+>- [x] How to display empty states using ContentUnavailableView, providing a clear and visually appealing way to inform users when there is no content to display.
+>-	[x] How to load photos from the user’s photo library in SwiftUI, utilizing PhotosPicker to allow users to import images into your app seamlessly.
+>- [x] How to let users share content from your app using ShareLink, simplifying the process of integrating sharing capabilities within your SwiftUI applications.
+>- [x] How to prompt users to leave an App Store review, enhancing your app’s visibility and reputation by integrating native review requests.
+>- [x] How to build a basic UI in SwiftUI, laying the foundation for more complex interfaces and user interactions.
+>- [x] How to import an image into SwiftUI using PhotosPicker, providing users with a simple and intuitive way to select images from their photo library.
+>- [x] How to perform basic image filtering using Core Image, applying visual effects to images within your SwiftUI app.
+>- [x] How to customize filters using confirmationDialog() in SwiftUI, allowing users to select and apply different image filters in a user-friendly way.
+>- [x] How to share an image using ShareLink, making it easy for users to distribute content from your app to other platforms or people.
+
+[**Check out the Instafilter Repository here🚀!**](https://github.com/Nazarzbs/Instafilter)
+
+<p float="middle">
+  <img src="https://github.com/user-attachments/assets/afe34cf6-18c6-4ddb-948b-c66c3ee623ec" width=770, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/6fe9eb89-f9ff-487c-8822-6d8f97a21363" width="260" height="500">
+
 ## Project 9 MyFriends
 
 <img src="https://github.com/user-attachments/assets/4c7e7385-3716-4f6f-aa78-e32640a07f6b" alt="Image description" width="120" height="120">

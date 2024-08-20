@@ -1,8 +1,40 @@
 # Solutions to Paul Hudson's "100 days of SwiftUI" projects and challenges by Nazar
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
+
+## Project 11 Bucket List
+
+<img src="https://github.com/user-attachments/assets/cd1e088b-7829-47c2-a44c-50cabba80f0b" width="120" height="120">
+
+An app that lets the user build a private list of places on the map that they intend to visit one day.
+
+###Learn
+
+>- [x] How to write data to the documents directory, allowing persistent storage of files and user data within your iOS app.
+>- [x] How to switch view states using enums, providing a clean and efficient way to manage multiple UI states in SwiftUI.
+>- [x] How to integrate MapKit with SwiftUI, allowing you to embed maps into your app and leverage the power of Apple’s mapping services.
+>- [x] How to use Touch ID and Face ID with SwiftUI, improving your app’s security and user experience through biometric authentication.
+>- [x] How to add user locations to a map, enabling dynamic map features that track and display users’ current locations.
+>- [x] How to improve map annotations, offering more detailed and visually engaging information on map points of interest.
+>- [x] How to select and edit map annotations, giving users the ability to interact with and modify annotations directly on the map.
+>- [x] How to download data from Wikipedia, providing external information to enhance your app’s functionality using web services.
+>- [x] How to sort Wikipedia results, improving data presentation and user experience by organizing the retrieved information logically.
+>- [x] How to introduce MVVM into a SwiftUI project, structuring your code to maintain separation of concerns and enhance code organization.
+>- [x] How to lock your UI behind Face ID, securing sensitive parts of your app through biometric protection.
+
+[**Check out the Bucket List Repository here🚀!**](https://github.com/Nazarzbs/Bucketlist)
+
+<p float="middle">
+
+  <img src="https://github.com/user-attachments/assets/5241adc8-dc7d-4136-bde3-2395377ba11b" width=770, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/64b742cb-ff35-4e8d-ab60-7dffc39d1574">
+
  
 ## Project 10 Instafilter
+
 
 <img src="https://github.com/user-attachments/assets/7d100e91-8697-4ff7-9190-297291b62519" width="120" height="120">
 

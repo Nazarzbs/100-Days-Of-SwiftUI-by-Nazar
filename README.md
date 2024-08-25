@@ -2,6 +2,37 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+## Project 12 Meet Remind
+
+<img src="https://github.com/user-attachments/assets/d82cf140-0bd7-4da0-a5c5-ee761d9234b1" width="120" height="120">
+ 
+Have you ever been to a conference or a meetup, chatted to someone new, then realized seconds after you walk away that you’ve already forgotten their name? You’re not alone, and the app Meet Remind will help solve that problem.
+
+###Learn
+
+ >- [x] How property wrappers become structs, gaining insight into how these fundamental SwiftUI components are implemented and used.
+ >- [x] How to present confirmation dialogs with multiple buttons, allowing for complex user interactions and decision-making within your app.
+ >- [x] How to use Core Image to manipulate images, enabling advanced image processing and editing features.
+ >- [x] How to import photos into SwiftUI, integrating user-generated content into your app’s interface seamlessly.
+ >- [x] How to integrate maps into SwiftUI, embedding interactive map features using Apple’s mapping services.
+ >- [x] How to drop pins on maps, adding visual markers to specific locations within your app’s map views.
+ >- [x] How to share content from your app, leveraging iOS’s sharing capabilities to allow users to disseminate information easily.
+ >- [x] How to add Comparable conformance to custom types, facilitating sorting and comparison of custom data structures.
+ >- [x] How to find and write to the user’s documents directory, enabling persistent storage of files and user data.
+ >- [x] How to enable file encryption when writing, enhancing data security by protecting sensitive information.
+ >- [x] How to authenticate users with Touch ID and Face ID, improving security and user convenience through biometric authentication.
+
+[**Check out the Meet Remind Repository here🚀!**](https://github.com/Nazarzbs/MeetRemind)
+
+<p float="middle">
+
+  <img src="https://github.com/user-attachments/assets/9c62593a-6295-4e60-8b21-50abc6a794ab" width=970, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/63daf90e-5848-4795-bacf-27050063e582">
+
+
 ## Project 11 Bucket List
 
 <img src="https://github.com/user-attachments/assets/cd1e088b-7829-47c2-a44c-50cabba80f0b" width="120" height="120">

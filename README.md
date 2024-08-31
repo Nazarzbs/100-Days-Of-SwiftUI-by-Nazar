@@ -2,6 +2,48 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+## Project 13 Hot Prospects
+
+<img src="https://github.com/user-attachments/assets/3847b347-d226-4409-8f46-76bb98b168d7" width="120" height="120">
+
+An app to track who you meet at conferences. It show a QR code that stores your attendee information, then others can scan that code to add you to their list of possible leads for later follow up.
+
+###Learn
+
+ >- [x] How to let users select items in a List, enhancing interactive functionality by allowing users to choose and interact with list elements.
+ >- [x] How to create tabs with TabView and tabItem(), organizing content into easily navigable sections and improving the user interface layout.
+ >- [x] How to understand and utilize Swift’s Result type, enabling more robust error handling and clearer code when dealing with asynchronous operations.
+ >- [x] How to control image interpolation in SwiftUI, optimizing image rendering quality and performance in your app.
+ >- [x] How to create context menus, adding additional actions and options for users through a long-press interaction.
+ >- [x] How to add custom row swipe actions to a List, providing users with personalized and contextually relevant actions via swipe gestures.
+ >- [x] How to schedule local notifications, allowing your app to send timely reminders or updates to users even when the app is not in the foreground.
+ >- [x] How to add Swift package dependencies in Xcode, expanding your project’s functionality by incorporating third-party libraries and tools.
+ >- [x] How to build a custom tab bar, tailoring the navigation experience to better suit the needs and design of your app.
+ >- [x] How to store data with SwiftData, managing and persisting app data efficiently using Swift’s data management tools.
+ >- [x] How to dynamically filter SwiftData queries, refining and retrieving specific subsets of data based on user input or application state.
+ >- [x] How to generate and scale up a QR code, enabling your app to create and display QR codes at various sizes for different use cases.
+ >- [x] How to scan QR codes with SwiftUI, integrating QR code scanning functionality into your app to enhance user interactions.
+ >- [x] How to add options with swipe actions, offering users additional functionalities directly from swipe gestures on list items.
+ >- [x] How to add a context menu to an image, providing users with a menu of actions or options when interacting with images in your app.
+ >- [x] How to post notifications to the lock screen, ensuring important updates and reminders are visible to users even when their device is locked.
+
+[**Check out the Hot Prospects Repository here🚀!**](https://github.com/Nazarzbs/HotProspects)
+
+
+<p float="middle">
+
+  <img src="https://github.com/user-attachments/assets/92853a83-2774-4bb4-bf79-a9c0c1b1b463" width=970, >
+
+</p>
+
+<p float="middle">
+
+  <img src="https://github.com/user-attachments/assets/5236ebcd-62a8-4429-8276-76c3283d8d5b" width=970, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/c33c23eb-e600-4839-9b9d-320e637a31f5">
+
 ## Project 12 Meet Remind
 
 <img src="https://github.com/user-attachments/assets/d82cf140-0bd7-4da0-a5c5-ee761d9234b1" width="120" height="120">

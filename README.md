@@ -2,6 +2,37 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+ ## Project 14 Flashzilla
+
+ Introducing Flashzilla, the perfect tool for mastering new concepts with ease! Whether you’re learning a new language, studying for an exam, or simply looking to boost your knowledge, Flashzilla helps you do it through interactive flashcards. Each card displays a key term or concept, and with a simple tap, you’ll reveal the answer or more details. Say goodbye to flipping physical cards and enjoy a seamless learning experience wherever you go. With Flashzilla, learning becomes engaging, efficient, and accessible—right at your fingertips!
+
+<img src="https://github.com/user-attachments/assets/2c3fac93-f1f2-4c32-be82-c1833988582e" width="120" height="120">
+
+###Learn!
+
+
+>- [x] How to build a stack of cards, allowing users to swipe through multiple flashcards in sequence.
+>- [x] How to move views with DragGesture and offset(), implementing smooth animations as users swipe cards left or right.
+>- [x] How to color views as we swipe, visually indicating whether a swipe is correct or incorrect by changing the card’s background color.
+>- [x] How to implement a countdown with Timer, adding a time constraint to the learning process for a more challenging experience.
+>- [x] How to disable interactions with allowsHitTesting(), preventing users from tapping or interacting with cards under certain conditions.
+>- [x] How to fix the bug where text fields retain their input after adding a card, ensuring text fields reset after each card addition for a smoother user experience.
+>- [x] How to solve the color issue when swiping cards back to the center, ensuring the color only changes based on the final position after the swipe is completed.
+>- [x] How to reintroduce incorrect cards into the stack, giving users additional opportunities to learn from their mistakes by uniquely identifying each card.
+>- [x] How to save and load data using SwiftData instead of UserDefaults, creating a more robust data persistence system for long-term storage.
+>- [x] How to centralize loading and saving code, streamlining the app’s data management by reducing redundant code and improving maintainability.
+
+[**Check out the Flashzilla Repository here🚀!**](https://github.com/Nazarzbs/Flashzilla)
+
+<p float="middle">
+
+  <img src="https://github.com/user-attachments/assets/8a9d330d-d946-4c84-95f3-21efae35e263" width=970, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/a4ae3a45-6253-44b7-8607-4510ac77867e">
+
+
 ## Project 13 Hot Prospects
 
 <img src="https://github.com/user-attachments/assets/3847b347-d226-4409-8f46-76bb98b168d7" width="120" height="120">

@@ -2,6 +2,32 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+ ## Project 15 Rollkeeper
+
+Introducing Rollkeeper – a sleek and powerful dice-rolling app designed for gamers, decision-makers, and enthusiasts alike! Whether you’re playing tabletop games, making decisions, or just having fun with friends, Rollkeeper helps you roll dice of any type and store your results for future reference.
+
+<img src="https://github.com/user-attachments/assets/a7aa08bf-24c7-451e-89af-948770103935" width="120" height="120">
+
+###Learn!
+
+>- [x] How to build an interface that allows users to roll dice, customize the number of dice and view results.
+>- [x] How to store and display previous roll results using SwiftData for persistent storage.
+>- [x] How to implement haptic feedback when rolling dice, enhancing user experience with physical feedback.
+>- [x] How to use a Timer to flick through various dice values, simulating the rolling animation before landing on the final number.
+>- [x] How to use ForEach and SwiftUI gestures to display results in a list format and manage interactions like deletion.
+>- [x] How to display the total sum of the dice rolled for easy visibility of results.
+>- [x] How to enhance animations and user experience by adjusting the timing and transitions of rolling 3d effects.
+
+[**Check out the Rollkeeper Repository here🚀!**](https://github.com/Nazarzbs/Rollkeeper)
+
+<p float="middle">
+
+  <img src="https://github.com/user-attachments/assets/d7891761-ea2f-482f-9204-b45c0c88ea96" width=970, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/f8f22851-023d-4685-ac85-8bbb31b0441c">
+
  ## Project 14 Flashzilla
 
  Introducing Flashzilla, the perfect tool for mastering new concepts with ease! Whether you’re learning a new language, studying for an exam, or simply looking to boost your knowledge, Flashzilla helps you do it through interactive flashcards. Each card displays a key term or concept, and with a simple tap, you’ll reveal the answer or more details. Say goodbye to flipping physical cards and enjoy a seamless learning experience wherever you go. With Flashzilla, learning becomes engaging, efficient, and accessible—right at your fingertips!

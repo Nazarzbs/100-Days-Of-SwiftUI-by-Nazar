@@ -2,13 +2,42 @@
 
  This is a file that contains all of my 100 Days Of SwiftUI projects which include all challenges and extras
 
+ ## Project 16 SnowSeeker
+
+ An app to let users browse ski resorts around the world, to help them find one suitable for their next holiday.
+
+<img src="https://github.com/user-attachments/assets/3eb1b50e-c4d3-49bb-86b8-d9462f57cca5" width="120" height="120">
+
+### Learn!
+
+>- [x] How to present a default detail view on iPad using NavigationSplitView for a better multi-column experience.
+>- [x] How to create a detailed view for resorts, including information like size, price, and facilities.
+>- [x] How to search for data in a List using SwiftUI’s .searchable modifier for dynamic filtering.
+>- [x] How to change a view’s layout based on size classes, making the UI adapt between iPhone and iPad.
+>- [x] How to bind an alert to an optional string, showing user messages conditionally.
+>- [x] How to let users mark resorts as favorites and store that preference persistently.
+>- [x] How to add a photo credit overlay on the ResortView image, making the UI visually appealing and informative.
+>- [x] How to implement loading and saving methods for favorites using SwiftData for persistent storage.
+>- [x] How to challenge myself by allowing users to sort resorts either by default, alphabetically, or by country.
+
+[**Check out the SnowSeeker Repository here🚀!**](https://github.com/Nazarzbs/snowseeker)
+
+<p float="middle">
+
+  <img src="https://github.com/user-attachments/assets/6ae2b623-809d-4100-8b27-58f53de9f1d0" width=970, >
+
+</p>
+
+<img src="https://github.com/user-attachments/assets/3f00bfc9-ac49-41b3-b6a5-9b63bf09e375">
+
+
  ## Project 15 Rollkeeper
 
 Introducing Rollkeeper – a sleek and powerful dice-rolling app designed for gamers, decision-makers, and enthusiasts alike! Whether you’re playing tabletop games, making decisions, or just having fun with friends, Rollkeeper helps you roll dice of any type and store your results for future reference.
 
 <img src="https://github.com/user-attachments/assets/a7aa08bf-24c7-451e-89af-948770103935" width="120" height="120">
 
-###Learn!
+### Learn!
 
 >- [x] How to build an interface that allows users to roll dice, customize the number of dice and view results.
 >- [x] How to store and display previous roll results using SwiftData for persistent storage.
@@ -34,7 +63,7 @@ Introducing Rollkeeper – a sleek and powerful dice-rolling app designed for ga
 
 <img src="https://github.com/user-attachments/assets/2c3fac93-f1f2-4c32-be82-c1833988582e" width="120" height="120">
 
-###Learn!
+### Learn!
 
 
 >- [x] How to build a stack of cards, allowing users to swipe through multiple flashcards in sequence.
@@ -65,7 +94,7 @@ Introducing Rollkeeper – a sleek and powerful dice-rolling app designed for ga
 
 An app to track who you meet at conferences. It show a QR code that stores your attendee information, then others can scan that code to add you to their list of possible leads for later follow up.
 
-###Learn
+### Learn
 
  >- [x] How to let users select items in a List, enhancing interactive functionality by allowing users to choose and interact with list elements.
  >- [x] How to create tabs with TabView and tabItem(), organizing content into easily navigable sections and improving the user interface layout.
@@ -107,7 +136,7 @@ An app to track who you meet at conferences. It show a QR code that stores your 
  
 Have you ever been to a conference or a meetup, chatted to someone new, then realized seconds after you walk away that you’ve already forgotten their name? You’re not alone, and the app Meet Remind will help solve that problem.
 
-###Learn
+### Learn
 
  >- [x] How property wrappers become structs, gaining insight into how these fundamental SwiftUI components are implemented and used.
  >- [x] How to present confirmation dialogs with multiple buttons, allowing for complex user interactions and decision-making within your app.
@@ -138,7 +167,7 @@ Have you ever been to a conference or a meetup, chatted to someone new, then rea
 
 An app that lets the user build a private list of places on the map that they intend to visit one day.
 
-###Learn
+### Learn
 
 >- [x] How to write data to the documents directory, allowing persistent storage of files and user data within your iOS app.
 >- [x] How to switch view states using enums, providing a clean and efficient way to manage multiple UI states in SwiftUI.
@@ -170,7 +199,7 @@ An app that lets the user build a private list of places on the map that they in
 
 An app that lets the user import photos from their library, then modify them using various image effects.
 
-###Learn
+### Learn
 
 >- [x] How to respond to state changes using the onChange() modifier in SwiftUI, enabling dynamic updates and reactions to specific changes within your views.
 >- [x] How to present multiple options to users using confirmationDialog(), offering a user-friendly way to handle complex interactions and decision-making in SwiftUI.
@@ -200,7 +229,7 @@ An app that lets the user import photos from their library, then modify them usi
 
 MyFriends is your all-in-one social networking app designed to keep you in touch with the people who matter most. Whether you’re sharing moments, chatting with friends, or discovering new connections, MyFriends offers a seamless and engaging experience.
 
-###Learn
+### Learn
 
 >- [x]	How to use the Codable protocol to easily encode and decode JSON data into Swift types, reducing boilerplate code and improving code clarity.
 >- [x] How to utilize keyDecodingStrategy in JSONDecoder to automatically convert JSON property names from snake_case to camelCase, allowing for seamless integration between JSON data and Swift code conventions.
@@ -228,7 +257,7 @@ MyFriends is your all-in-one social networking app designed to keep you in touch
 
 An app to track which books you’ve read and what you thought of them.
 
-###Learn
+### Learn
 
 >- [x]	How to create a custom component with @Binding to allow for dynamic and interactive UI elements that can react to changes in the data model.
 >- [x]	How to accept multi-line text input using TextEditor for capturing and managing detailed user input, such as book reviews or notes.
@@ -255,7 +284,7 @@ An app to track which books you’ve read and what you thought of them.
 
 App for ordering cupcakes.
 
-###Learn
+### Learn
 
 >- [x]	How to use SwiftUI’s List to dynamically display a collection of data items, enhancing the user interface with interactive elements.
 >- [x] How to leverage @State and @Binding properties in SwiftUI to manage and share state between views, allowing for responsive UI updates.
@@ -281,7 +310,7 @@ App for ordering cupcakes.
 
 Habit-tracking app, for folks who want to keep track of how much they do certain things. That might be learning a language, practicing an instrument, exercising, etc.
 
-###Learn
+### Learn
 
 >- [x] How to use a class with the @Observable macro to manage and track changes in a list of activities, enabling real-time updates in the UI.
 >- [x] How to use sheet() to present modal views, such as a form for adding new activities, and NavigationLink for navigating to detail screens.
@@ -306,7 +335,7 @@ Habit-tracking app, for folks who want to keep track of how much they do certain
 
 An app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program. 
 
-###Learn
+### Learn
 
 >- [x] How to use ScrollView to work with scrolling data, enabling the display of content larger than the available screen space.
 >- [x] How to push new views onto the stack using NavigationLink, allowing for navigation between different parts of the app.
@@ -332,7 +361,7 @@ An app that lets users learn about the missions and astronauts that formed NASA�
 
 iExpense is an expense tracker that separates personal costs from business costs. 
 
-###Learn
+### Learn
 
 >- [x] How to use UserDefaults to store and retrieve user preferences and app settings.
 >- [x] How to conform to the Codable protocol for encoding and decoding data, making it easier to save complex objects.
